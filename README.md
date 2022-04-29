@@ -1,3 +1,3 @@
-# **G**o**l**ang Beam SDK
+# Gleam
 
-Use generics for the Beam SDK
+A type-safe wrapper for the Apache Beam Go SDK
